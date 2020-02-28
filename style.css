@@ -1,5 +1,7 @@
 h1{
     color: #cccccc
+    grid-column-start: 1;
+    grid-column-end: 7;
 }
 
   li {
@@ -8,7 +10,10 @@ h1{
 
 html,
 body {
-  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 16px;
+  margin-bottom: 16px;
   padding: 0;
   background: #666666;
   font-family: Helvetica, Arial, sans-serif;
