@@ -1,6 +1,11 @@
 h1{
     color: #cccccc
 }
+nav.topnav {
+li
+  display: inline;
+  margin-right: 5em;
+}
 html,
 body {
   margin: 0;
