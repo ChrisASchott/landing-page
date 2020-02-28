@@ -19,3 +19,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   color: #666666;
 }
+
+.maintext {
+  grid-column-start: 3;
+  grid-column-end: 10;
+}
