@@ -2,9 +2,7 @@ h1{
     color: #cccccc
 }
 nav.topnav {
-li
-  display: inline;
-  margin-right: 5em;
+display: inline;
 }
 html,
 body {
