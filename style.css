@@ -2,7 +2,9 @@ h1{
     color: #cccccc
 }
 nav.topnav {
-list-style: inline;
+  li {
+    display: inline;
+  }
 }
 html,
 body {
