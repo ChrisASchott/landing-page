@@ -6,6 +6,8 @@ header{
 
   li {
     display: inline;
+    grid-column-start: 8;
+    grid-column-end: 12;
   }
 
 body {
