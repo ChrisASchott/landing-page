@@ -1,7 +1,7 @@
-h1{
+header{
     color: #cccccc
     grid-column-start: 1;
-    grid-column-end: 11;
+    grid-column-end: 12;
 }
 
   li {
@@ -9,6 +9,10 @@ h1{
   }
 
 body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+  margin-bottom: 16px;
   background: #666666;
   font-family: Helvetica, Arial, sans-serif;
   color: #666666;
