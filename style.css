@@ -26,3 +26,9 @@ body {
   grid-column-end: 10;
   text-align: center;
 }
+
+.form {
+  grid-column-start: 3;
+  grid-column-end: 10;
+  text-align: center;
+}
