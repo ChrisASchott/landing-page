@@ -5,7 +5,8 @@ header{
 }
 
 .topnav{
-    grid-column-start: 8;
+   background-color: #cccccc;; 
+   grid-column-start: 8;
     grid-column-end: 12;
 }
 
