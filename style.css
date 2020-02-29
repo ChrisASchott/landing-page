@@ -21,7 +21,7 @@ body {
 }
 
 .maintext {
-  font-size: large;
+  font-size: 200%;
   grid-column-start: 3;
   grid-column-end: 10;
   text-align: center;
