@@ -5,9 +5,10 @@ header{
 }
 
 .topnav{
-   background-color: #cccccc;; 
+   background-color: #cccccc;
+   text-align: center;
    grid-column-start: 8;
-  grid-column-end: 11;
+   grid-column-end: 11;
 }
 
   li {
@@ -16,7 +17,7 @@ header{
 
 body {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 16px;
   background: #666666;
   font-family: Helvetica, Arial, sans-serif;
