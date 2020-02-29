@@ -21,6 +21,7 @@ body {
 }
 
 .maintext {
+  font-family: Helvetica Bold, Arial Bold, sans-serif bold
   font-size: 400%;
   grid-column-start: 3;
   grid-column-end: 10;
