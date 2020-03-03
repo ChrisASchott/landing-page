@@ -30,7 +30,7 @@ body {
   grid-column-start: 3;
   grid-column-end: 10;
   text-align: center;
-  background-img: url("landing-page/Newspapers.jpg")
+  background-img: url("landing-page/Newspapers.jpg");
 }
 
 .form {
