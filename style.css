@@ -44,6 +44,7 @@ body {
 p.credits {
   font-family: helvetica, arial, sans-serif;
   font-size: 75%;
+  color: #cccccc;
   grid-column-start: 2;
   text-align: left;
 }
