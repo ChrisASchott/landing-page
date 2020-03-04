@@ -26,7 +26,7 @@ body {
 }
 
 .backgroundimagearea {
-  background-image: url("images/Newspapers.jpg" alt="a collage of newspapers");
+  background-image: url("images/Newspapers.jpg");
   background-repeat: no-repeat;
   background-position-x: center top;
   grid-column-start: 2;
