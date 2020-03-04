@@ -25,14 +25,17 @@ body {
   color: #666666;
 }
 
+.backgroundimagearea {
+  background-image: url("images/Newspapers.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center top;
+}
+
 .maintext {
   font-size: 400%;
   grid-column-start: 3;
   grid-column-end: 10;
   text-align: center;
-  background-image: url("images/Newspapers.jpg");
-  background-repeat: no-repeat;
-  background-position-x: center top;
 }
 
 .form {
