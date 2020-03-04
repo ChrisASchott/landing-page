@@ -31,6 +31,7 @@ body {
   grid-column-end: 10;
   text-align: center;
   background-image: url("https://drive.google.com/file/d/1TfljMWWr83HgP7Az9mQ44yUHQlmq50R9/view?usp=sharing");
+  background-repeat: no-repeat;
 }
 
 .form {
