@@ -29,6 +29,7 @@ body {
   background-image: url("images/Newspapers.jpg");
   background-repeat: no-repeat;
   background-position-x: center top;
+  size: 9 columns;
   grid-column-start: 2;
   grid-column-end: 11;
 }
