@@ -23,13 +23,14 @@ body {
   background: #666666;
   font-family: Helvetica, Arial, sans-serif;
   color: #666666;
+  padding: none;
 }
 
 .backgroundimagearea {
   background-image: url("images/Newspapers.jpg");
   background-repeat: no-repeat;
   background-position-x: center top;
-  size: 9 columns;
+  size: 9fr;
   grid-column-start: 2;
   grid-column-end: 11;
 }
