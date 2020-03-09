@@ -8,7 +8,7 @@ header{
    text-align: center;
    grid-column-start: 8;
    grid-column-end: 11;
-   background-image: <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.87 34"><defs><style>.cls-1{fill:#cccccb;}</style></defs><path class="cls-1" d="M551.93,304.41V304a15,15,0,0,0-15-15H255.07a15,15,0,0,0-15,15v.41h0V323H551.93V304.41Z" transform="translate(-240.07 -289)"/></svg>;
+   background-image: url("images/NavBarShape.svg");
 }
 
   li {
