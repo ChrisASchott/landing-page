@@ -22,7 +22,8 @@ header{
 body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-gap: 10px;
+  margin: auto;
+  grid-gap: 0px;
   background: #666666;
   font-family: Helvetica, Arial, sans-serif;
   color: #666666;
