@@ -9,7 +9,7 @@ header{
    grid-column-start: 8;
    grid-column-end: 11;
    background-image: url("images/NavBarShape.svg");
-   background-size: 100%;
+  
    background-repeat: no-repeat;
    background-position-x: center top;
 }
@@ -33,7 +33,7 @@ body {
   background-image: url("images/Newspapers.jpg");
   background-repeat: no-repeat;
   background-position-x: center top;
-  size: 9fr;
+  size: 100%;
   grid-column-start: 2;
   grid-column-end: 11;
 }
