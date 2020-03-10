@@ -9,7 +9,6 @@ header{
    grid-column-start: 8;
    grid-column-end: 11;
    background-image: url("images/NavBarShape.svg");
-  
    background-repeat: no-repeat;
    background-position-x: center top;
 }
