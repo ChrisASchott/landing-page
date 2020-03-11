@@ -54,7 +54,7 @@ body {
 }
 
 input.submit:hover {
-  background-color: rosybrown;
+  color: red;
 }
 
 p.credits {
