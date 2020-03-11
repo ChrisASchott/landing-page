@@ -53,6 +53,10 @@ body {
   padding-right: 5em;;
 }
 
+input.submit:hover {
+  background-color: rosybrown;
+}
+
 p.credits {
   font-size: 75%;
   color: #cccccc;
